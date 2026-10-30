@@ -1,1 +1,1 @@
-We have provided a comparison between FMGFormer and baseline models. To protect the integrity of our research, the complete source code will be made publicly available upon acceptance of the manuscript.
+We have provided a comparison of FMGFormer with baseline models. To protect our research成果, the complete source code will be released upon acceptance of the manuscript. Until then, redistribution or external sharing of the code in this repository is strictly prohibited. Thank you for your understanding and cooperation.
